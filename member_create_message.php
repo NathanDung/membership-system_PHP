@@ -1,4 +1,4 @@
-<?php //新增留言，成功後導向主頁
+<?php
 session_start();
 unset ($_COOKIE["OwnCookie"]);
 setcookie("OwnCookie", null);
