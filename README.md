@@ -11,3 +11,11 @@
 # The system of membership message board
 
 - This is a sample members and an admin system by origin PHP language, for members system, include register, login, create a new message, check the message which has got the answer from the admin. For admin system, it can login, check messages from all members and give feedback.
+
+### Backend (admin)
+1. Show all messages on the page.
+2. Give any message feedback.
+
+### Frontend (member)
+1. Create a new message to admin.
+2. Check how many messages in data base.
